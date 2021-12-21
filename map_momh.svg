@@ -737,7 +737,10 @@
   </g>
   <g
      id="layer4"
-     transform="translate(-40.315321,-108.10831)">
+     transform="translate(-40.315321,-108.10831)" />
+  <g
+     id="layer2"
+     style="display:none">
     <rect
        style="fill:#aad400;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="rect306307"
@@ -746,7 +749,8 @@
        x="70.237244"
        y="156.18912"
        ry="0"
-       rx="0" />
+       rx="0"
+       transform="translate(-40.315322,-108.10831)" />
     <rect
        style="fill:#aad400;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="rect306411"
@@ -755,7 +759,8 @@
        x="79.069885"
        y="129.95355"
        ry="0"
-       rx="0" />
+       rx="0"
+       transform="translate(-40.315322,-108.10831)" />
     <rect
        style="fill:#aad400;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="rect306413"
@@ -764,7 +769,8 @@
        x="114.22556"
        y="156.10167"
        ry="0"
-       rx="0" />
+       rx="0"
+       transform="translate(-40.315322,-108.10831)" />
     <rect
        style="fill:#aad400;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="rect306415"
@@ -774,7 +780,7 @@
        y="-124.18171"
        ry="0"
        rx="0"
-       transform="rotate(90)" />
+       transform="rotate(90,33.896495,-74.211816)" />
     <rect
        style="fill:#aad400;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="rect306417"
@@ -784,7 +790,7 @@
        y="-162.22328"
        ry="0"
        rx="0"
-       transform="rotate(90)" />
+       transform="rotate(90,33.896495,-74.211816)" />
     <rect
        style="fill:#aad400;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="rect306419"
@@ -794,7 +800,7 @@
        y="-157.35637"
        ry="0"
        rx="0"
-       transform="scale(-1)" />
+       transform="rotate(180,-20.157661,-54.054155)" />
     <rect
        style="fill:#aad400;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="rect306421"
@@ -804,7 +810,7 @@
        y="122.95737"
        ry="0"
        rx="0"
-       transform="rotate(-90)" />
+       transform="rotate(-90,-74.211816,-33.896494)" />
     <rect
        style="fill:#aad400;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="rect372659"
@@ -813,6 +819,9 @@
        x="108.37222"
        y="130.17113"
        ry="0"
-       rx="0" />
+       rx="0"
+       transform="translate(-40.315322,-108.10831)" />
   </g>
+  <g
+     id="layer3" />
 </svg>
